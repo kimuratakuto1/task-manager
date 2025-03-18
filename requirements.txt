@@ -1,0 +1,9 @@
+numpy==2.2.3
+pandas==2.2.3
+pyasn1==0.6.1
+PySimpleGUI==5.0.8
+python-dateutil==2.9.0.post0
+pytz==2025.1
+rsa==4.9
+six==1.17.0
+tzdata==2025.1

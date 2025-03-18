@@ -1,7 +1,6 @@
 numpy==1.24.2
 pandas==1.5.3
 pyasn1==0.6.1
-PySimpleGUI==5.1.0
 python-dateutil==2.9.0.post0
 pytz==2025.1
 rsa==4.9
